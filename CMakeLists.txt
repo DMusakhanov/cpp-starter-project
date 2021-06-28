@@ -13,3 +13,4 @@ set_project_warnings(default)
 enable_testing()
 add_subdirectory(external/doctest)
 add_subdirectory(src)
+
